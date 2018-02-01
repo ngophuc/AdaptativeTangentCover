@@ -21,7 +21,7 @@ Main installation:
 To install the tools you have to follow the following steps:
 
 - ImaGene installation (ImaGene-forIPOL)
-  From the CurveDecomposition directory do in a terminal:
+  From the AdaptativeTangentCover directory do in a terminal:
     cd ImaGene-forIPOL
     mkdir build; cd build
     cmake ..
