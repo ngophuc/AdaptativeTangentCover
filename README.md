@@ -14,7 +14,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 
 <p>File <a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/pentagonNoise4.sdp">pentagonNoise4.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATC_Computation -i ../Samples/pentagonNoise4.sdp -o ../Results/pentagonNose4 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
+<code>./ATC_Computation -i ../Samples/pentagonNoise4.sdp -o ../Results/pentagonNoise4 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
@@ -27,8 +27,33 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 		Input curve
 		</td>
 		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4_OnlyArcSeg.pdf">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4ATC.pdf">
 				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4ATC.png" alt="ATC result" />
+			</a>
+		<br />
+		AdaptativeTangentCover result
+		</td>
+		</tr>
+	</table>
+</p>
+
+<p>File <a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/circle50.sdp">circle50.sdp</a>: </p>&#x000A;&#x000A;
+<pre class="code highlight js-syntax-highlight plaintext">
+<code>./ATC_Computation -i ../Samples/circle50.sdp -o ../Results/circle50 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
+</pre>&#x000A;&#x000A;
+<p>
+	<table cellpadding="5">
+		<tr>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50.pdf">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50.png" alt="Input curve" />
+			</a>	
+		<br />
+		Input curve
+		</td>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50ATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50ATC.png" alt="ATC result" />
 			</a>
 		<br />
 		AdaptativeTangentCover result
