@@ -14,7 +14,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 
 <p>File <a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/pentagonNoise4.sdp">pentagonNoise4.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATC_Computation -i ../Samples/pentagonNoise4.sdp -o ../Results/pentagonNose4 -d ../ImaGene-forIPOL --maxScale 10 --samplingStep 1.0</code>
+<code>./ATC_Computation -i ../Samples/pentagonNoise4.sdp -o ../Results/pentagonNose4 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
