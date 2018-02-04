@@ -66,7 +66,7 @@ int main(int argc, char *argv[])
     /* Read contour */
     std::vector<std::vector<DGtal::Z2i::RealPoint> > vecTmp=PointListReader<DGtal::Z2i::RealPoint>::getPolygonsFromFile(inputFile);
     std::vector<std::vector<DGtal::Z2i::RealPoint> > vecPts=getContours(vecTmp);
-
+    
     string outVecPts=outputFile+(eps? "OutPts.eps": "OutPts.svg");
     Board2D aBoard;
     aBoard.setLineWidth(100.0);
