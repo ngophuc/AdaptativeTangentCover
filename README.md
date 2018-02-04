@@ -45,6 +45,13 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 	<table cellpadding="5">
 		<tr>
 		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/circle50.png">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/circle50.png" alt="Input image" />
+			</a>	
+		<br />
+		Input image
+		</td>	
+		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50.pdf">
 				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/circle50.png" alt="Input curve" />
 			</a>	
