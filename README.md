@@ -140,3 +140,34 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 	</table>
 </p>
 
+<p>File <a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/flower100Noise4.sdp">flower100Noise4.sdp</a>: </p>&#x000A;&#x000A;
+<pre class="code highlight js-syntax-highlight plaintext">
+<code>./ATC_Computation -i ../Samples/flower100Noise4.sdp -o ../Results/flower100Noise4 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
+</pre>&#x000A;&#x000A;
+<p>
+	<table cellpadding="5">
+		<tr>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/flower100Noise4.png">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Samples/flower100Noise4.png" alt="Input image" />
+			</a>	
+		<br />
+		Input image
+		</td>			
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/flower100Noise4.pdf">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/flower100Noise4.png" alt="Input curve" />
+			</a>	
+		<br />
+		Input curve
+		</td>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/flower100Noise4ATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/flower100Noise4ATC.png" alt="ATC result" />
+			</a>
+		<br />
+		AdaptativeTangentCover result
+		</td>
+		</tr>
+	</table>
+</p>
