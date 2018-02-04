@@ -31,7 +31,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4ATC.png" alt="ATC result" />
 			</a>
 		<br />
-		Decomposition result
+		AdaptativeTangentCover result
 		</td>
 		</tr>
 	</table>
